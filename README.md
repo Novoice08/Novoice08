@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Novoice08
+- 👋 Hi, I’m Arun
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Reactjs. 
 - 💞️ I’m looking to collaborate on ...
