@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Novoice08
-- 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning solidity and ethereum 
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Reactjs. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at arun923016@gmail.com
 
